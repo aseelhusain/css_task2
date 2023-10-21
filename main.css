@@ -1,0 +1,17 @@
+.services{
+
+  color: black; 
+  background-color: rgb(199, 189, 189);
+  text-align: center; 
+}
+.service{
+    color: black;
+    background-color: brown;
+    float: left;
+
+    width: 33%;
+   
+}
+.clearfix{
+   clear: left; 
+}
